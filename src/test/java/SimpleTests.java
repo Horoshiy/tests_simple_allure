@@ -7,9 +7,4 @@ public class SimpleTests {
     void successTest() {
         assertEquals(2 * 2, 4);
     }
-
-    @Test
-    void negativeTest() {
-        assertEquals(2 * 2, 5);
-    }
 }
